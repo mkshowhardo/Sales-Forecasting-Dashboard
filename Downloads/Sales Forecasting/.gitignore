@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Streamlit
+.streamlit/
+venv/
+__pycache__/
+*.pkl
+.streamlit/
+
+# Logs
+*.log
